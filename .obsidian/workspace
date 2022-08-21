@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Issues.md",
+            "file": "Player Notes/Mepris Of Fortuitous Things/Player Primer.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Issues.md",
+                "file": "Player Notes/Mepris Of Fortuitous Things/Player Primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Issues.md",
+                "file": "Player Notes/Mepris Of Fortuitous Things/Player Primer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Issues.md"
+                "file": "Player Notes/Mepris Of Fortuitous Things/Player Primer.md"
               }
             }
           },
@@ -137,8 +137,8 @@
   },
   "active": "068a4e4c205d1463",
   "lastOpenFiles": [
-    "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Persons.md",
     "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Issues.md",
+    "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Persons.md",
     "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Overview.md",
     "Regions/The Ailing Isles (Far North East)/The Elven Remenants/Overview.md"
   ]
