@@ -9,7 +9,7 @@ The aim of this campaign is the fulfillment of the contract, a simple task, foll
 The contract has the following stipulations
 
 	- The elemination of the target, alias "Old One Eye"
-	- The provision of three tasks, provided in full to the alias "Takes on to know one"
+	- The provision of three tasks, provided in full to the alias "Takes one to know one"
 	- The accrument of 150 gp, for the Service Mans Tax of Ardoáburg
 
 #### Roles
