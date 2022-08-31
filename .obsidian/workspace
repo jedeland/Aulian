@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/The Occ Gods.md",
+            "file": "Religion/The Old Lordship Of Chinon/Overview.md",
             "mode": "source",
             "source": false
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/The Occ Gods.md",
+                "file": "Religion/The Old Lordship Of Chinon/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/The Occ Gods.md",
+                "file": "Religion/The Old Lordship Of Chinon/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/The Occ Gods.md"
+                "file": "Religion/The Old Lordship Of Chinon/Overview.md"
               }
             }
           },
@@ -135,13 +135,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a0479ef63c3762ec",
+  "active": "068a4e4c205d1463",
   "lastOpenFiles": [
     "Religion/Gods Of The Occ/Occ Gods.md",
-    "Templates/The Occ Gods.md",
-    "Religion/Gods Of The Occ/Overview.md",
     "Religion/The Old Lordship Of Chinon/Overview.md",
     "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Overview.md",
+    "Templates/The Occ Gods.md",
+    "Religion/Gods Of The Occ/Overview.md",
     "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Persons.md",
     "Regions/The Ailing Isles (Far North East)/The Elven Remenants/Overview.md",
     "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Issues.md",

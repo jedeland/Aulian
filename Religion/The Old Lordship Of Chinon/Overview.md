@@ -10,7 +10,19 @@ Not much is known of the older organized religion of the Chinon isles, the gener
 	- To talk of Chinons political structure is to start a full thesis consisting of many pages. The righteous two or, "The Two" as they are known, represent a lord and lady, morphed and formed by the horrid feudal structure created by the local nobility, the lord and lady often ride on horse back, armour clad and hunting whomever they seem fit. (Such is the way in Chinon)
 - The Western Specter
 	- Those that have broken the "Spell of the Two", that do not accept the current order of strict hierarchy often pray to the Western Specter, he is characterized as a skeleton sailor, often his aspects will appear on the shores, one foot on land the other still in the sea, with illicit goods and sometimes gifts for the younger, downtrodden masses. 
-	- Though sightings are rare, the skeletal boatsman is a common myth in Chinon, on the one hand, he represents the underclass that seeks to rebel and change the status quo, and on the other, scholars hypothesize he represents the human empathy felt by people repressing their emotions
+	- Though sightings are rare, the skeletal boatsman is a common myth in Chinon, on the one hand, he represents the underclass that seeks to rebel and change the status quo, and on the other, scholars hypothesize he represents the human empathy felt by people repressing their emotions, or a human form of collective sadness, felt by all other lands for the residents of Chinon. 
 
 ## The New Gods
 
+#### The [[Occ Gods]]
+
+See Link: 
+
+#### The Waybluff Gods
+
+- Ilos "The Quack": Patron of doctors, good or bad, as long as they are paid and the patient leaves the building alive, popular in Chinon among the surgeons guild.
+- Eron "No Jaw": Patron of assassins in Waybluff, has become popular as a "Taboo" religion for the nobility / merchant class
+
+#### The Old Gods
+
+TODO:
