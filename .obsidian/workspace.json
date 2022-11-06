@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "92d0d722976ae962",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5ad3bcae8858891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068a4e4c205d1463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Gods Of The Occ/Occ Gods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a65374fe47fa7750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Celpoole/Notable Persons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5618746fcbfb368e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73f887df6bbca17c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d919e194678443c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0479ef63c3762ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f53c6374e48a9072",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a595fd609b6d690",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02b2abb18a7716c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "34513090dddaac94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30b40153875f3d4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Celpoole/Notable Persons.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11f70b0e33f28d88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Celpoole/Notable Persons.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79184f3f449e716f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3531a5d77e4a618",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Celpoole/Notable Persons.md"
+              }
+            }
+          },
+          {
+            "id": "24473c5a3ace0466",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "a65374fe47fa7750",
+  "lastOpenFiles": [
+    "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Celpoole.md",
+    "Religion/Gods Of The Occ/Occ Gods.md",
+    "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Issues.md",
+    "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Notable Persons.md",
+    "Regions/The Ailing Isles (Far North East)/Chinon (Chinonisle)/Overview.md",
+    "Player Notes/Mepris Of Fortuitous Things/Player Primer.md",
+    "Regions/The Ailing Isles (Far North East)/The Elven Remenants/Overview.md",
+    "Templates/The Occ Gods.md",
+    "Religion/Gods Of The Occ/Overview.md",
+    "Religion/The Old Lordship Of Chinon/Overview.md"
+  ]
+}
