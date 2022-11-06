@@ -7,7 +7,7 @@
 | Merey Ance       | Human     | Local tradeswoman          | Contact person to the iron wyverns through trade dealings and other means                                    | White dyed hair and green eyes, her dark skin stands out underneath her doctors cloak                                                                                  |
 | Gadzhi Bioreberg | Orc       | Local merc and ruffian     | Contact person for sub-tasks or for extra muscle                                                             | Balding with multiple scars, he wears a simple tunic reminising of the slaves of the west                                                                              |
 | Veidi Kirrenle   | Hobgoblin | Antagonists servant        | Number 2 of kathil                                                                                           | Red hair, red skin, red eyes, red clothing... slightly muscular build and multiple scars                                                                               |
-|                  |           |                            |                                                                                                              |                                                                                                                                                                        |
+| Tholes           | Human     | Ship Captain               | An older, skinny gentleman                                                                                                              |                                                                                                                                                                        |
 
 
 ## Non Related
