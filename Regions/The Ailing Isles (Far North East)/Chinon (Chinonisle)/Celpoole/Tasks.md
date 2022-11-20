@@ -1,4 +1,5 @@
 - Guardians: The local guildsmen have been looking for their patrons daughter, she has fled off into the hinterlands with a young suitor, find the daughter and return her to them in return for information on your "3 tasks" objective
+	- Boss Name: Giliam, Girl: Madalyn, BF: Fillion
 	- Options
 		- There is a local girl in the hovel where the daughter is staying, she want to see the world and take in all the sights, madalyn believes her father wouldnt even notice the difference
 		- Bag the girl, bring her back, problem solved
@@ -6,4 +7,4 @@
 	- Leads into:
 		- 5gp
 		- Information on "Knows One"
-- Ruffians: The 
+- Ruffians: The local armsmen have been having troubles with back alley beatings and muggings, no one is coming forward with information but it is affecting traffic in the merchants quaters, 
